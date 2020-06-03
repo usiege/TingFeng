@@ -1,0 +1,20 @@
+Changes since tag v5.3.4-classic
+
+commit 873ef5623b88676d48e95934c1526d26ebda4056
+Author: Boshi Lian <farmer1992@gmail.com>
+Date:   Tue May 5 20:16:08 2020 -0700
+
+    minimap icon
+
+commit 4d4b0e0b2c5e99e266e0a67d4b9e3546846c32bb
+Author: Boshi Lian <farmer1992@gmail.com>
+Date:   Tue Apr 7 10:31:48 2020 -0700
+
+    fix nil
+
+commit 0b7ebac3ebd663b41ee993c7e703eff24d36f658
+Author: Boshi Lian <farmer1992@gmail.com>
+Date:   Tue Mar 31 17:40:41 2020 -0700
+
+    try to unify crlf
+

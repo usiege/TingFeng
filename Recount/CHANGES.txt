@@ -1,0 +1,12 @@
+------------------------------------------------------------------------
+r1532 | Resike | 2020-02-23 01:01:28 +0000 (Sun, 23 Feb 2020) | 1 line
+Changed paths:
+   M /trunk/Fights.lua
+   M /trunk/GUI_Config.lua
+   M /trunk/Recount.lua
+   M /trunk/Recount.toc
+   M /trunk/WindowOrder.lua
+
+- Cleanup
+------------------------------------------------------------------------
+

@@ -1,0 +1,9 @@
+## Interface: 11302
+## Title: Miyu
+## Author: Eulav
+## Version: 0.1
+## SavedVariablesPerCharacter: MiyuSettings
+
+Miyu.lua
+MiyuDefaults.lua
+MiyuOptions.lua
