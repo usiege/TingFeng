@@ -126,6 +126,13 @@ function FMT.formatCombatSpellSchool(data)
     return base, desc;
 end
 
+SPELL_POWER_MANA = 1
+SPELL_POWER_RAGE = 2
+SPELL_POWER_FOCUS = 3
+SPELL_POWER_ENERGY = 4
+SPELL_POWER_HAPPINESS = 5
+SPELL_POWER_RUNES = 6
+
 local POWER_TYPES = {
     [SPELL_POWER_MANA] = "MANA",
     [SPELL_POWER_RAGE] = "RAGE",
@@ -133,7 +140,7 @@ local POWER_TYPES = {
     [SPELL_POWER_ENERGY] = "ENERGY",
     [SPELL_POWER_HAPPINESS] = "HAPPINESS",
     [SPELL_POWER_RUNES] = "RUNES",
-    [-2] = "HEALTH";
+    [-2] = "HEALTH"
 }
 
 function FMT.formatCombatPowerType(data)

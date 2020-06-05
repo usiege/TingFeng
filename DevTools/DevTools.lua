@@ -7,6 +7,7 @@
 -----------------------------------------------------------------------------
 
 DevTools = { utils = {} };
+_G.DevTools = DevTools
 local DT = DevTools;
 
 function DT:GetPackage(name)

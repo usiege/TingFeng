@@ -12,8 +12,8 @@ local _MySlot = pblua.load_proto_ast(MySlot.ast)
 local MYSLOT_AUTHOR = "Boshi Lian <farmer1992@gmail.com>"
 
 
-local MYSLOT_VER = 25
-local MYSLOT_ALLOW_VER = {MYSLOT_VER, 24, 23, 22}
+local MYSLOT_VER = 30
+local MYSLOT_ALLOW_VER = {MYSLOT_VER}
 
 -- local MYSLOT_IS_DEBUG = true
 local MYSLOT_LINE_SEP = IsWindowsClient() and "\r\n" or "\n"
@@ -279,7 +279,8 @@ function MySlot:Export(opt)
     s = "@ " .. L["Feedback"] .. "  farmer1992@gmail.com" .. MYSLOT_LINE_SEP .. s
     s = "@ " .. MYSLOT_LINE_SEP .. s
     s = "@ " .. LEVEL .. ":" ..UnitLevel("player") .. MYSLOT_LINE_SEP .. s
-    s = "@ " .. SPECIALIZATION ..":" .. ( GetSpecialization() and select(2, GetSpecializationInfo(GetSpecialization())) or NONE_CAPS ) .. MYSLOT_LINE_SEP .. s
+    -- s = "@ " .. SPECIALIZATION ..":" .. ( GetSpecialization() and select(2, GetSpecializationInfo(GetSpecialization())) or NONE_CAPS ) .. MYSLOT_LINE_SEP .. s
+    s = "@ " .. TALENT .. ":" .. select(3,GetTalentTabInfo(1)) .. "/" .. select(3,GetTalentTabInfo(2)) .. "/" .. select(3,GetTalentTabInfo(3)) .. MYSLOT_LINE_SEP .. s
     s = "@ " .. CLASS .. ":" ..UnitClass("player") .. MYSLOT_LINE_SEP .. s
     s = "@ " .. PLAYER ..":" ..UnitName("player") .. MYSLOT_LINE_SEP .. s
     s = "@ " .. L["Time"] .. ":" .. date() .. MYSLOT_LINE_SEP .. s
@@ -351,12 +352,6 @@ function MySlot:Import(text, opt)
     return msg
 end
 
-local function UnifyCRLF(text)
-    text = string.gsub(text, "\r", "")
-    text = string.gsub(text, "\n", MYSLOT_LINE_SEP)
-    return text
-end
-
 -- {{{ FindOrCreateMacro
 function MySlot:FindOrCreateMacro(macroInfo)
     if not macroInfo then
@@ -369,7 +364,6 @@ function MySlot:FindOrCreateMacro(macroInfo)
         
         local name, _, body = GetMacroInfo(i)
         if name then
-            body = UnifyCRLF(body)
             localMacro[ name .. "_" .. body ] = i
             localMacro[ body ] = i
         end
@@ -380,9 +374,8 @@ function MySlot:FindOrCreateMacro(macroInfo)
     local name = macroInfo["name"]
     local icon = macroInfo["icon"]
     local body = macroInfo["body"]
-    body = UnifyCRLF(body)
 
-    local localIndex = localMacro[ name .. "_" .. body] or localMacro[ body ]
+    local localIndex = localMacro[ name .. "_" .. body ] or localMacro[ body ]
 
     if localIndex then
         return localIndex
@@ -449,41 +442,41 @@ function MySlot:RecoverData(msg, opt)
     end
 
     -- removed in 6.0 
-    for _, companionsType in pairs({"CRITTER"}) do
-        for i =1,GetNumCompanions(companionsType) do
-            local _,_,spellId = GetCompanionInfo( companionsType, i)
-            spells[MYSLOT_SPELL .. "_" .. spellId] = {i, companionsType, "companions"}
-        end
-    end
+    -- for _, companionsType in pairs({"CRITTER"}) do
+    --     for i =1,GetNumCompanions(companionsType) do
+    --         local _,_,spellId = GetCompanionInfo( companionsType, i)
+    --         spells[MYSLOT_SPELL .. "_" .. spellId] = {i, companionsType, "companions"}
+    --     end
+    -- end
 
 
-    for _, p in pairs({GetProfessions()}) do
-        local _, _, _, _, numSpells, spelloffset = GetProfessionInfo(p)
-        for i = 1,numSpells do
-            local slot = i + spelloffset
-            local spellType, spellId = GetSpellBookItemInfo(slot, BOOKTYPE_PROFESSION)
-            if spellType then
-                spells[MySlot.SLOT_TYPE[string.lower(spellType)] .. "_" .. spellId] = {slot, BOOKTYPE_PROFESSION, "spell"}
-            end
-        end
-    end
+    -- for _, p in pairs({GetProfessions()}) do
+    --     local _, _, _, _, numSpells, spelloffset = GetProfessionInfo(p)
+    --     for i = 1,numSpells do
+    --         local slot = i + spelloffset
+    --         local spellType, spellId = GetSpellBookItemInfo(slot, BOOKTYPE_PROFESSION)
+    --         if spellType then
+    --             spells[MySlot.SLOT_TYPE[string.lower(spellType)] .. "_" .. spellId] = {slot, BOOKTYPE_PROFESSION, "spell"}
+    --         end
+    --     end
+    -- end
     
     -- }}}
 
     
     -- {{{ cache mounts
 
-    local mounts = {}
+    -- local mounts = {}
 
-    for i = 1, C_MountJournal.GetNumMounts() do
-        ClearCursor()
-        C_MountJournal.Pickup(i)
-        local _, mount_id = GetCursorInfo()
+    -- for i = 1, C_MountJournal.GetNumMounts() do
+    --     ClearCursor()
+    --     C_MountJournal.Pickup(i)
+    --     local _, mount_id = GetCursorInfo()
 
-        if mount_id then
-            mounts[mount_id] = i
-        end
-    end
+    --     if mount_id then
+    --         mounts[mount_id] = i
+    --     end
+    -- end
 
     -- }}}
 
@@ -630,7 +623,7 @@ function MySlot:RecoverData(msg, opt)
             end
 
         end
-        SaveBindings(GetCurrentBindingSet())
+        AttemptToSaveBindings(GetCurrentBindingSet())
     end
 
     MySlot:Print(L["All slots were restored"])
@@ -656,6 +649,6 @@ function MySlot:Clear(what)
                 end
             end
         end
-        SaveBindings(GetCurrentBindingSet())
+        AttemptToSaveBindings(GetCurrentBindingSet())
     end
 end

@@ -1,0 +1,7 @@
+## Interface: 11304
+## Title: 战争游戏
+## Author: Dencer
+## Version: 1.0.18
+## SavedVariables: NETEASE_WARGAME_DB
+
+Load.xml
