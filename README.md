@@ -9,6 +9,11 @@
 
 - [WOW API收录](./API.md)
 
+
+## World of Warcraft
+
+- [Github rep](https://github.com/usiege/World-Of-Warcraft)
+
 ## MACRO
 
 - [宏命令](./MACRO.md)
