@@ -11,7 +11,7 @@ local G = ns[2]
 --local Useingtime = ns.Useingtime 
 
 
-local Iconsize = 50 -- 图标大小
+local Iconsize = 500 -- 图标大小
 local font = GameFontHighlight:GetFont()
 local texture = ""
 local alpha = 0.6 --缩放大小
@@ -282,7 +282,7 @@ end
 --[[                            Mainbutton 主图标                     ]]--
 ---------------------------------------------------------------------------
 PDUI.mainbutton = CreateFrame("Frame", "PD_mainbutton", PDUI)
-PDUI.mainbutton:SetPoint("TOPLEFT", UIParent, "TOPLEFT", -1,1)
+PDUI.mainbutton:SetPoint("TOPLEFT", UIParent, "TOPLEFT", 10,10)
 PDUI.mainbutton:SetFrameStrata("TOOLTIP")
 PDUI.mainbutton:SetSize(Iconsize/25,Iconsize/25)
 PDUI.mainbutton.icon = CreateFrame("Frame", nil, PDUI.mainbutton)
