@@ -1,10 +1,18 @@
 # WOW API
+> COLLECTION WITH WOW API
 
 ## API收集
 
+### [A]
+
+
+### [C]
+
+- CHAT_MSG_WHISPER
+```
+frame: Register("CHAT_MSG_WHISPER")
 ```
 
-```
 
 ## 表格列表
 
