@@ -3,6 +3,11 @@
 ## 带链接
 
 
+## 我的日常
+
+- [我的日常](./Notes/README.md)
+
+
 ## TBC插件说明帖
 
 - [ [TBC相关] 科普怀旧服插件的一些常识](https://ngabbs.com/read.php?tid=26849066&rand=683)
