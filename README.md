@@ -1,7 +1,9 @@
 # TingFeng
 听风的插件DIY
 
+## Recommand
 
+- [插件推荐](./RECOMMAND.md)
 
 ## API
 
