@@ -5,6 +5,7 @@
 ## COMMOND
 
 - 查看当前游戏版本
+`/run print(GetBuildInfo())`
 `/run print((select(4, GetBuildInfo())))`
 
 - 视角调到最大
@@ -29,3 +30,19 @@ to display LUA errors
 - 近战血飞溅效果
 `/console violenceLevel 5`
 
+## console
+
+- [Console](https://wowpedia.fandom.com/wiki/Console)
+
+World of Warcraft usage:
+[-metal]        Force Gx to use Metal backend (only option at the moment)
+[-fullscreen]   Force game to launch in windowed fullscreen mode
+[-windowed]     Force game to launch in windowed mode
+[-nosound]      Disable sound
+[-console]      Enable in-game console (default key '~')
+[-version | -v] Print version number (major.minor.patch.build_number)
+[-help | -h]    Prints this help output
+[-gluescript]  Lua code run at the glue screens
+[-gamescript]  Lua code run once in-game
+[-gluescriptFile]  File containing Lua code run at the glue screens
+[-gamescriptFile]  File containing Lua code run once in-game
