@@ -30,6 +30,9 @@ to display LUA errors
 - 近战血飞溅效果
 `/console violenceLevel 5`
 
+- 修改consloe默认按钮
+`/run SetConsoleKey("]")`
+
 ## console
 
 - [Console](https://wowpedia.fandom.com/wiki/Console)
