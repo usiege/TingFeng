@@ -2,6 +2,11 @@
 
 > 这里是游戏内命令的集合。
 
+## MACRO
+
+- [通用宏](./Macro/通用.md)
+
+
 ## COMMOND
 
 - 查看当前游戏版本
@@ -52,7 +57,7 @@ World of Warcraft usage:
 
 ## CVar
 
-- [EKCore](https://github.com/EKE00372/EKCore)
+- [EKCoreMacro](https://github.com/EKE00372/EKCore)
 
 ```lua
 -- [[ 介面設定，輸入/SETUI載入 ]] --
