@@ -3,6 +3,7 @@
 
 ## Recommand
 
+- [我的Patreon](https://www.patreon.com/hearwinds)
 - [插件推荐](./RECOMMAND.md)
 
 ## Addons
