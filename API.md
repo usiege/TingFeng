@@ -13,6 +13,13 @@
 frame: Register("CHAT_MSG_WHISPER")
 ```
 
+### [W]
+
+```
+WorldTextScale  # 伤害数字倍数
+```
+
+
 
 ## 表格列表
 
