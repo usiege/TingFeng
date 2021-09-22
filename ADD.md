@@ -19,8 +19,6 @@
 
 ### 资料
 
-- [百度云盘]()
-
 - [主模块](https://www.curseforge.com/wow/addons/guidelime/download)
 
 - [主模块社区](https://discord.com/channels/599244929318780928/599244929868496907)
