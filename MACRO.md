@@ -6,9 +6,6 @@
 
 - [通用宏](./Macro/通用.md)
 
-
-## COMMOND
-
 - 查看当前游戏版本
 `/run print(GetBuildInfo())`
 `/run print((select(4, GetBuildInfo())))`
