@@ -12,6 +12,8 @@
 
 - [Addons Tools](https://github.com/usiege/awesome-wow-addons)
 
+- [WindWhispered](https://github.com/usiege/WindWhispered)
+
 
 ## World of Warcraft
 
