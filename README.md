@@ -1,29 +1,33 @@
 # TingFeng
-听风的插件DIY
+
+听风的自用插件相关收集
 
 ## Recommand
 
 - [我的Patreon](https://www.patreon.com/hearwinds)
-- [插件推荐](./RECOMMAND.md)
 
 ## Addons
 
-- [Addons git](https://github.com/usiege/Addons)
+- [Publisher](https://github.com/usiege/publisher)
+
+- [Addons Tools](https://github.com/usiege/awesome-wow-addons)
+
+- [WindWhispered](https://github.com/usiege/WindWhispered)
 
 
 ## World of Warcraft
 
-- [Github rep](https://github.com/usiege/World-Of-Warcraft)
+- [Github rep 暴雪工具库](https://github.com/usiege/World-Of-Warcraft)
 
 
 ## MACRO
 
-- [宏命令](./MACRO.md)
+- [宏命令](./Macro/README.md)
 
 
 ## RECOMMAND
 
-- [推荐阅读](./RECOMMAND.md)
+- [推荐阅读](https://github.com/usiege/publisher)
 
 
 ## API
