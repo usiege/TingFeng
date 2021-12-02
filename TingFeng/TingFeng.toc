@@ -10,6 +10,7 @@
 TingFeng.lua
 #TingFeng.xml
 
-CombatTracker/CombatTracker.lua
-CombatTracker/CombatTracker.xml
+
+-- load 
+LoadDefault.lua
 
