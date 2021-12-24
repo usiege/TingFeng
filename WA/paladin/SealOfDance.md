@@ -2,9 +2,129 @@
 
 惩戒骑圣印舞
 
+> [Wago Url](https://wago.io/RvbxkQEv2/18)
 
 ## 劲舞团
 
+### 图示
+
+- 图标设置
+
+- 位置设置
+
+- 添加 文本/模型/发光/边框
+
+
+
+### 触发
+
+- 触发器组合
+
+- 触发器num （自定义）
+
+```
+-- 事件
+MYSTLER_GCDHISTORY_ADD
+```
+
+```
+-- 自定义生效触发器
+function(event, arg1, arg2, arg3, arg4)
+    if arg1 == aura_env.thisRegister then
+        aura_env.icon = arg2
+        aura_env.xoff = 0
+        aura_env.castTime = arg3
+        if arg4 then
+            aura_env.region:SetDesaturated(true)
+            aura_env.region:Color(1,0,0,1)
+        else
+            aura_env.region:SetDesaturated(false)
+            aura_env.region:Color(1,1,1,1)
+        end
+        return true
+    end
+    return false
+end
+```
+
+```
+-- 指定时长，动态时长
+function()
+    return aura_env.config["displayTime"], aura_env.castTime + aura_env.config["displayTime"]
+end
+```
+
+```
+-- 图标信息
+function()
+    return aura_env.icon
+end
+```
+
+### 条件
+
+- 添加条件
+  
+### 动作
+
+- 初始化时
+
+```lua
+aura_env.thisRegister = 1
+
+aura_env.animX = aura_env.config["displayTime"] * aura_env.region.width
+if aura_env.config["direction"] == 1 then
+    aura_env.animDir = -1
+else
+    aura_env.animDir = 1
+end
+
+aura_env.xoff = 0
+aura_env.castTime = 0
+```
+
+- 图示显示时
+
+- 图示隐藏时
+
+
+### 动画
+
+- 开始
+
+```
+function(progress, startX, startY, deltaX, deltaY)
+    local x = startX + aura_env.animDir * (progress * aura_env.animX)
+    x = x + aura_env.animDir * aura_env.xoff
+    return x, startY
+end
+```
+
+- 主要的 (自定义)
+
+```
+-- 淡化 自定义函数
+function(progress, start, delta)
+    return math.min(1.0, (1.0 - progress) * 5.0)
+end
+```
+
+```
+-- 滑动 自定义函数
+function(progress, startX, startY, deltaX, deltaY)
+    local x = startX + aura_env.animDir * (progress * aura_env.animX)
+    x = x + aura_env.animDir * aura_env.xoff
+    return x, startY
+end
+```
+
+- 结束 （自定义）
+
+
+
+### 载入
+
+选择合适时机或环境；
 
 
 ## 劲乐团
