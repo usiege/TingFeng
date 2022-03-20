@@ -11,9 +11,9 @@
 
 [[ElvUI]魔兽世界简洁风格整合插件包功能全解（编辑推荐）](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247485703&idx=1&sn=62a2c1537371278d5a2ca377e0b40a79&chksm=eaf13792dd86be8448b495d4557576567621cb62d7915e4efb6bbb060564897c93b24362a423#rd)
 
-该功能表将持续更新，详情可以点击“原文阅读”直达。
+该功能表将持续更新，详情可以访问以下链接直达。
 
-> https://www.zybuluo.com/usiege/note/2134348
+> https://github.com/usiege/TingFeng/blob/master/Notes/tbc-wa-update.md
 
 
 ## 通用
