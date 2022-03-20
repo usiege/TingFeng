@@ -10,11 +10,11 @@
 
 ## WA功能串更新说明（更新至2022.02.21）
 
-[WA功能串更新说明（更新至2022.02.21）](https://www.zybuluo.com/usiege/note/2134348)
+[WA功能串更新说明（更新至2022.02.21）](https://github.com/usiege/TingFeng/blob/master/Notes/tbc-wa-update.md)
 
 ## 简洁风格套装
 
-![WX20220214-153258@2x.png-7108.3kB][1]
+![](https://s3.bmp.ovh/imgs/2022/03/e5d80193ef057861.png)
 
 ### 03 插件配置软件更新
 
