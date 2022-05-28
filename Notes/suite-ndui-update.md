@@ -36,6 +36,6 @@
 
 |项目|说明|补充|
 |:-:|:-:|:-:|
-|菜单显示|`_classic_/Buttons`下全部内容，如不需要可直接删除||
-|字体|修改字体为方正圆简体，修改字体详见：<br> [【听风】WOW如何修改字体？收藏这一篇就够了。](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247485238&idx=6&sn=14afa4359c2da784875587d0839722ee&chksm=eaf139a3dd86b0b53ae698f33747a4be6b65ecdbc95448c93c190d1ab3cd5b8f6e40233c837e#rd)||
-|按钮颜色|`_classic_/Glues`下替换材质，可更改按钮颜色及点按时半透明效果||
+|菜单显示|`_classic_/Buttons`下全部内容，如不需要可直接删除|![03.png](https://s2.loli.net/2022/05/29/w8ovIAiMxZqRVk5.png)|
+|字体|修改字体为方正圆简体，修改字体详见：<br> [【听风】WOW如何修改字体？收藏这一篇就够了。](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247485238&idx=6&sn=14afa4359c2da784875587d0839722ee&chksm=eaf139a3dd86b0b53ae698f33747a4be6b65ecdbc95448c93c190d1ab3cd5b8f6e40233c837e#rd)|![04.png](https://s2.loli.net/2022/05/29/ODQzG9E1yPTeKSI.png)|
+|按钮颜色|`_classic_/Glues`下替换材质，可更改按钮颜色及点按时半透明效果|![05.png](https://s2.loli.net/2022/05/29/9pMNeIs2kfqV78O.png)|
