@@ -11,22 +11,40 @@
 
 ## 更新日志（日期至下而上）
 
-
-
-## 2022.05.29
-
 - 更新
 
 |项目|更新说明|补充|
 |:-:|:-:|:-:|
 ||||
 
+
+- 新增
+
+|插件|功能简介|说明|
+|:-:|:-:|:-:|
+||||
+
+
+
+### 2022.05.30
+
+
+- 新增
+
+|插件|功能简介|说明|
+|:-:|:-:|:-:|
+|WeakAuras|WA 4.0版本，找不到请到QQ资料群下载|[[听风]TBC最强单体插件WeakAuras(没有之一)](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247484593&idx=1&sn=55e8191672a9deb673e9e58b911efec6&chksm=eaf13a24dd86b33238e126a52a0b8c06646f2131b51d081f08bbaa692a0cc708ebbb6b7f4802#rd)|
+|Addon Control Panel|整理插件列表，合并相同类型的插件，一键加载插件<br>（文件夹为`ACP`）|![07.png](https://s2.loli.net/2022/05/29/1Lrict2xoBIHMek.png)|
+
+
+### 2022.05.29
+
+
 - 新增
 
 |插件|功能简介|说明|
 |:-:|:-:|:-:|
 |NDui|NDui原始精简基础包，无任何杂质，可放心食用|[[NDui]WOW最精简的集成插件包NDui（干货）](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247485896&idx=1&sn=a989d69a719fd1eb16ae9386e8d7d906&chksm=eaf1375ddd86be4bd71a1d5fecb6a0961fa18cbbca3c9beceb9033fe0d193e2f5d4a771ecb7a#rd)|
-
 
 
 - 新增
