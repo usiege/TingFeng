@@ -11,10 +11,17 @@
 
 ## 更新日志（日期至下而上）
 
-> [全部插件](./tfisaip/ndui-all.md)
+> [插件更新合集](./tfisaip/ndui-all.md)
 
 
 ### 2022.05.31
+
+- 更新
+1. 修改了`RangeDisplay`的呼出命令，现在可以用`/rd`直接代替`/rangedisplay`啦；
+2. 新增了`NDui`控制台面板的呼出命令，可通过`/n`命令直接呼出（旧版需要ESC -> NDui 控制台呼出）；
+3. 更新了`RangeDisplay`的距离显示位置，现在目标、焦点的距离显示在其框体的左上方，鼠标位置的距离显示跟随鼠标指针：
+
+![11.png](https://s2.loli.net/2022/05/31/F9LdjgSlm1yNAXt.png)
 
 
 - 新增
@@ -24,7 +31,9 @@
 |DBM|黑盒工坊DBM-2.5.36-bcc|[[听风]TBC单体插件必要安装的DBM](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247484671&idx=1&sn=457f6b5fa215a22de79bb67039926f9a&chksm=eaf13a6add86b37c891080c1ac4ff9206c5b76047d8689aa10264191d3bd2679b38befab135a#rd)|
 |Plater|自由度极高的姓名版插件，可以通过串一键导入配置|[[听风]自由度堪比WA的血量监控插件Plater（推荐）](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247485460&idx=1&sn=b8ddfde8c5a7d820a80e0811be61f7ff&chksm=eaf13681dd86bf97253642bb591c605dbd6e5dc4b0284f642b3caea9c931b1729b895c7f5ffb#rd)|
 |BugSack|插件报错收集（不弹出系统bug窗口），与`BugGrabber`配合使用|[[听风]TBC我的单体插件出错啦！！！](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247483982&idx=1&sn=e08d692ec06067aea94b60fee7f0cfe5&chksm=eaf13cdbdd86b5cd78cc4a5f1a390c5d666de335844766e2637d605ecfdb91551e69211fb9cf#rd)|
-||||
+|Vuhdo|俗称的“巫毒”框架，治疗必备，也可通过字符串一键导入配置|[[听风]治疗组的福音“巫毒”（Vuhdo）以及僚机推荐](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247485195&idx=1&sn=e48c6befe3f57ce43285ff97417397a6&chksm=eaf1399edd86b088bcbf39fde08f4da754abaaa06ccf73649461fa24541014279c71fa8e715c#rd)|
+|AtlasLootClassic|装备掉落插件，`/al`呼出||
+|RangeDisplay|距离监控插件，`/rd`呼出||
 
 
 ### 2022.05.30
