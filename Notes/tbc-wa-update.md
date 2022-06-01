@@ -1,24 +1,27 @@
-﻿# 【WA】TBC功能WA串更新日志（更新至2022.03.03）
+﻿# 【WA】TBC功能WA串更新日志（更新至2022.06.02）
 
-标签（空格分隔）： 更新
+- [【WA】TBC功能WA串更新日志（更新至2022.06.02）](#watbc功能wa串更新日志更新至20220602)
+  - [副本](#副本)
+  - [通用](#通用)
+    - [打团必备](#打团必备)
+    - [近战专用](#近战专用)
+  - [职业专用](#职业专用)
+    - [萨满(Shaman)](#萨满shaman)
+    - [德鲁伊(Druid)](#德鲁伊druid)
+    - [猎人(Hunter)](#猎人hunter)
+    - [法师(Mage)](#法师mage)
+    - [圣骑士(Paladin)](#圣骑士paladin)
+    - [牧师(Priest)](#牧师priest)
+    - [盗贼(Rogue)](#盗贼rogue)
+    - [术士(Warlock)](#术士warlock)
+    - [战士(Warrior)](#战士warrior)
 
----
+本WA更新串为黑盒工坊“【听风】TBC极简风格界面（持续更新）”配套更新文档，黑盒分享码为：**59558USF8TkE1f6**
 
-[TOC]
-
-
-本篇为[ElvUI]简洁风格WA功能串的更新部分：
-
-[[ElvUI]魔兽世界简洁风格整合插件包功能全解（编辑推荐）](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247485703&idx=1&sn=62a2c1537371278d5a2ca377e0b40a79&chksm=eaf13792dd86be8448b495d4557576567621cb62d7915e4efb6bbb060564897c93b24362a423#rd)
-
-该功能表将持续更新，详情可以访问以下链接直达。
-
-> https://github.com/usiege/TingFeng/blob/master/Notes/tbc-wa-update.md
-
+## 副本
 
 ## 通用
-
-### 2022.02.22 更新
+### 打团必备
 
 |名称|原址|功能|
 |:-:|:-:|:-:|
@@ -37,8 +40,6 @@
 |团本材料准备清单|`https://wago.io/BB6w4sCt1`|![image_1fsgnedu2e3agu99f3r1g19oc7h.png-136.6kB][14]|
 
 
-### 2022.02.21
-
 |名称|原址|功能|
 |:-:|:-:|:-:|
 |上线自动启动操作|`https://wago.io/sW6VmfRc_`|包括聊天反和谐、模型反和谐、自身高亮、超远视角、删除狮鹫、显示血条职业颜色、自动阻止交易等多项便捷功能|
@@ -56,15 +57,12 @@
 |背包信息|`https://wago.io/trackables/85`|![image_1fse81tsedm8vo613gk19sa1o315h.png-10.9kB][25]|
 
 
-- 近战武器
+### 近战专用
 
 |名称|原址|功能|
 |:-:|:-:|:-:|
 |武器附魔/风怒图腾监控|`https://wago.io/ClassicTimedEnchants/3`|![image_1fse7274414k91l5he6bqhb1dk71s.png-39.9kB][26]|
 
-
-
-### 2022.02.14 
 
 |名称|原址|功能|
 |:-:|:-:|:-:|

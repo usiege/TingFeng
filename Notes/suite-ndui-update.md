@@ -31,7 +31,6 @@
 |:-:|:-:|:-:|
 |WindWhispered|自用小工具|持续迭代中|
 |Immersion|沉浸式RPG对话框体|![12.png](https://s2.loli.net/2022/06/01/MxjRAgCuzSqY2Pn.png)|
-|idTip|鼠标显示id功能||
 |Layer Hopper|位面查询和切换功能||
 |alaCalendar|有爱日历功能|![13.png](https://s2.loli.net/2022/06/01/MprHcsCBxw5yYui.png)|
 |MerInspect|装备观察助手|![14.png](https://s2.loli.net/2022/06/01/uohQd3BOE49NjXS.png)|

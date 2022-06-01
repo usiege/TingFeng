@@ -27,13 +27,12 @@
 |RaidLedger|金团助手，`/gtuan`呼出||
 |WindWhispered|自用小工具|持续迭代中|
 |Immersion|沉浸式RPG对话框体|![12.png](https://s2.loli.net/2022/06/01/MxjRAgCuzSqY2Pn.png)|
-|idTip|鼠标显示id功能||
 |Layer Hopper|位面查询和切换功能||
 |alaCalendar|有爱日历功能|![13.png](https://s2.loli.net/2022/06/01/MprHcsCBxw5yYui.png)|
 |MerInspect|装备观察助手|![14.png](https://s2.loli.net/2022/06/01/uohQd3BOE49NjXS.png)|
 |tdInspect|远程观察助手|![15.png](https://s2.loli.net/2022/06/01/duwCWiGmbBhQ2Ag.png)|
-|BoomTime|爆本统计助手||
-|Talented|直接替换系统天赋页面||
+|BoomTime|爆本统计助手|[[听风]TBC单体插件重置副本利器Boomtime](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247484696&idx=1&sn=8ff742d2cc26d528a140feb6d06a05f1&chksm=eaf13b8ddd86b29bbe0dc6ccd651664c18355f2f3a63871e5041f57e5f8dac50cf26ae1979e7#rd)|
+|Talented|直接替换系统天赋页面|[[听风]你想要一键改天赋吗？插件Talented推荐](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247485221&idx=1&sn=ac89342c827f54e987ee6303072adf74&chksm=eaf139b0dd86b0a6f03bbceb1398da1b171ab19b5e0af79475eb8373837411f9e11a851d82c3#rd)|
 
 
 
