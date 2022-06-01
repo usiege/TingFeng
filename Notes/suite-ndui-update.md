@@ -4,7 +4,7 @@
 
 ---
 
-此篇是听风NDui风格插件套装内容更新日志，按最近日期从上到下排序，内容持续更新中。。。
+此篇是听风NDui极简风格插件套装内容更新日志，按最近日期从上到下排序，内容持续更新中。。。
 
 [TOC]
 
@@ -12,7 +12,32 @@
 ## 更新日志（日期至下而上）
 
 > [插件更新合集](./tfisaip/ndui-all.md)
+> [插件快捷命令速查](https://github.com/usiege/TingFeng/tree/master/Macro/addons.md)
 
+
+### 2022.06.01
+
+> 注：请用分享码更新插件配置的小伙伴们不要手残更新插件，原代码有一定程度上的功能修正和小功能添加；如需更新请联系本人；
+
+- 更新
+1. 安装新插件不用再退出游戏啦！，`/rl`重新加载即可；
+2. 新增了`/wh`和`/wh2`帮助命令，再也不用记繁琐的命令啦！！！
+
+
+- 新增
+
+|插件|功能简介|说明|
+|:-:|:-:|:-:|
+|WindWhispered|自用小工具|持续迭代中|
+|Immersion|沉浸式RPG对话框体||
+|idTip|鼠标显示id功能||
+|Layer Hopper|位面查询和切换功能||
+|alaCalendar|有爱日历功能||
+|MerInspect|装备观察助手||
+|tdInspect|远程观察助手||
+|BoomTime|爆本统计助手||
+|Talented|直接替换系统天赋页面||
+||||
 
 ### 2022.05.31
 
@@ -34,7 +59,11 @@
 |Vuhdo|俗称的“巫毒”框架，治疗必备，也可通过字符串一键导入配置|[[听风]治疗组的福音“巫毒”（Vuhdo）以及僚机推荐](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247485195&idx=1&sn=e48c6befe3f57ce43285ff97417397a6&chksm=eaf1399edd86b088bcbf39fde08f4da754abaaa06ccf73649461fa24541014279c71fa8e715c#rd)|
 |AtlasLootClassic|装备掉落插件，`/al`呼出||
 |RangeDisplay|距离监控插件，`/rd`呼出||
-
+|Method Raid Tools|俗称“EXRT”，团队工具必备，包含诸多团队功能||
+|idTip|鼠标提示上显示各种ID，DIY自用WA非常有用|[【听风】如何自己创建WA光环~法术对象](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247485953&idx=1&sn=47b57102766498c967e81e0e40dde458&chksm=eaf13494dd86bd822325d137eda3810868ea188b65dd3a5a70bf29860e3d5307bca77f0c02da#rd)|
+|Decursive|一键驱散||
+|MeetingHorn|集合石，现名“集结号”||
+|RaidLedger|金团助手，`/gtuan`呼出||
 
 ### 2022.05.30
 
