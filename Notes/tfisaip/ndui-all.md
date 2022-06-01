@@ -2,8 +2,6 @@
 
 
 
-
-
 ## 插件
 
 > 以更新先后顺序
@@ -35,15 +33,7 @@
 |Talented|直接替换系统天赋页面|[[听风]你想要一键改天赋吗？插件Talented推荐](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247485221&idx=1&sn=ac89342c827f54e987ee6303072adf74&chksm=eaf139b0dd86b0a6f03bbceb1398da1b171ab19b5e0af79475eb8373837411f9e11a851d82c3#rd)|
 
 
-
-## WA
-
-
-
-
-
-
-## 其他
+## 材质更新
 
 
 |项目|说明|补充|
