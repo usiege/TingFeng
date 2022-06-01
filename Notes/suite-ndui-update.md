@@ -34,7 +34,7 @@
 |Layer Hopper|位面查询和切换功能||
 |alaCalendar|有爱日历功能|![13.png](https://s2.loli.net/2022/06/01/MprHcsCBxw5yYui.png)|
 |MerInspect|装备观察助手|![14.png](https://s2.loli.net/2022/06/01/uohQd3BOE49NjXS.png)|
-|tdInspect|远程观察助手![15.png](https://s2.loli.net/2022/06/01/duwCWiGmbBhQ2Ag.png)|
+|tdInspect|远程观察助手|![15.png](https://s2.loli.net/2022/06/01/duwCWiGmbBhQ2Ag.png)|
 |BoomTime|爆本统计助手||
 |Talented|直接替换系统天赋页面||
 ||||
