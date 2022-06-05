@@ -1,10 +1,8 @@
-# 【日更】听风的NDui插件套装更新日志（尚未开始）
+# 【听风】的插件包更新日志（v0.0.5 版本已更新）
 
 ---
 
-此篇是听风NDui极简风格插件套装内容更新日志，按最近日期从上到下排序，内容持续更新中。。。
-
-[TOC]
+此篇是听风的极简风格插件包内容更新日志，按最近日期从上到下排序，内容持续更新中。。。
 
 
 ## 更新日志（日期至下而上）
@@ -18,7 +16,7 @@
 
 - 更新视频链接
 
-> 抖音： [主页](https://www.douyin.com/user/MS4wLjABAAAAWZZwAj3K-Moaee9AAFuYqi6CRWfC29At1CHheP3ubYgxh3ceYT88_oFgwaTPW9su)
+> 抖音： [主页](https://www.douyin.com/user/MS4wLjABAAAAWZZwAj3K-Moaee9AAFuYqi6CRWfC29At1CHheP3ubYgxh3ceYT88_oFgwaTPW9su)，
 > 微信公众号【听风轻咛】，微信视频号【WoWCube】同步更新；
 
 > 本插件包问题反馈可到公众号后台，或者直接到 [我的知识星球](https://t.zsxq.com/02mlmqzN3) 提问；
@@ -51,8 +49,7 @@
 |WA|功能简介|说明|
 |:-:|:-:|:-:|
 |点我吃大蓝（常显问题修复）|nga-bacootang 功能简介：当总蓝量 - 当前蓝量 >= 3000（自动判断是否装备炼金石，装备则自动为4200），并且大蓝CD转好的情况下，高亮图标出现。|[https://bbs.nga.cn/read.php?tid=29747650](https://bbs.nga.cn/read.php?tid=29747650)|
-|敲鼓监控||此条为所有帧高占用类型注意！
-显示8码内你小队的人员名称，方便敲鼓|
+|敲鼓监控||此条为所有帧高占用类型注意！显示8码内你小队的人员名称，方便敲鼓|
 |双饰品监控，加入可点击代码|[https://wago.io/HkyCdgUpm/4](https://wago.io/HkyCdgUpm/4)|一个自用改版，加入了可点击代码，修改by 露露緹婭@bilibili|
 |盾值监控-侧面盾|[https://wago.io/G6FHkDAOv/](https://wago.io/G6FHkDAOv/)|原版：nanShield|
 
@@ -61,7 +58,7 @@
 |WA|功能简介|说明|
 |:-:|:-:|:-:|
 |标记目标血条||kell。法师A怪用，手动启用|
-|当前目标死亡时间估算||[https://wago.io/GiLz-tTYl/3](https://wago.io/GiLz-tTYl/3)|
+|当前目标死亡时间估算|[https://wago.io/GiLz-tTYl/3](https://wago.io/GiLz-tTYl/3)||
 |战斗计时|[https://wago.io/WPdnyDbmC/3](https://wago.io/WPdnyDbmC/3)||
 |DBM/BW 新计时条|DBM/BW 新计时条||
 
