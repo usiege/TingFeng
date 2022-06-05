@@ -11,8 +11,73 @@
 
 > [插件更新合集](./tfisaip/ndui-all.md)
 
-> [插件快捷命令速查](https://github.com/usiege/TingFeng/tree/master/Macro/addons.md)
+> [快捷命令速查](https://github.com/usiege/TingFeng/tree/master/Macro/addons.md)
 
+> [常用WA速查](https://github.com/usiege/TingFeng/blob/master/Notes/tbc-wa-update.md)
+
+
+> 更新视频链接
+> 抖音： [主页](https://www.douyin.com/user/MS4wLjABAAAAWZZwAj3K-Moaee9AAFuYqi6CRWfC29At1CHheP3ubYgxh3ceYT88_oFgwaTPW9su)
+> 微信公众号【听风轻咛】，微信视频号【WoWCube】同步更新；
+
+
+### 2022.06.03 (v0.0.5 Beta)
+
+- 更新
+
+1. 本次更新添加了部分常用WA；
+2. WA中大部分为露露整合，详询可至B站露露主页；
+3. 新增了各职业插件配置，NDui配置设置；
+
+- WA新增
+
+1. 通用分组
+|WA|功能简介|说明|
+|:-:|:-:|:-:|
+|经验声望统计|[https://bbs.nga.cn/read.php?tid=20700730](https://bbs.nga.cn/read.php?tid=20700730)|by wking@NGA，ExpHelper  v1.9.7.4。from：一个小巧的刷副本经验统计工具。|
+|强力跟随/迷路的沙恩|[https://bbs.nga.cn/read.php?tid=21466108](https://bbs.nga.cn/read.php?tid=21466108)|by：antiwinter，露露：简单汉化了一下自定义选项，我将位置放置在了玩家头像框的右侧|
+|点我吃面包|[https://wago.io/r1b2zigtX/3](https://wago.io/r1b2zigtX/3)|脱离战斗后法力值低于85%时提示吃食物，点击进食。默认法师面包，可更改。|
+|11跟随（鱼与鱼）||follow-by鱼与鱼，不在首领战中加载|
+|TBC常用声望监控 v2.2|[https://wago.io/lw8MHQNeR/6](https://wago.io/lw8MHQNeR/6)|原版：https://wago.io/lw8MHQNeR/
+部分声望补充 by 露露緹婭@Bilibili|
+|仇恨条显示|[https://wago.io/io6u6l723/4](https://wago.io/io6u6l723/4)||
+
+2. 战斗资源
+|WA|功能简介|说明|
+|:-:|:-:|:-:|
+|点我吃大蓝（常显问题修复）|nga-bacootang 功能简介：当总蓝量 - 当前蓝量 >= 3000（自动判断是否装备炼金石，装备则自动为4200），并且大蓝CD转好的情况下，高亮图标出现。|[https://bbs.nga.cn/read.php?tid=29747650](https://bbs.nga.cn/read.php?tid=29747650)|
+|敲鼓监控||此条为所有帧高占用类型注意！
+显示8码内你小队的人员名称，方便敲鼓|
+|双饰品监控，加入可点击代码|[https://wago.io/HkyCdgUpm/4](https://wago.io/HkyCdgUpm/4)|一个自用改版，加入了可点击代码，修改by 露露緹婭@bilibili|
+|盾值监控-侧面盾|[https://wago.io/G6FHkDAOv/](https://wago.io/G6FHkDAOv/)|原版：nanShield|
+
+3. 战斗显示
+|WA|功能简介|说明|
+|:-:|:-:|:-:|
+|标记目标血条||kell。法师A怪用，手动启用|
+|当前目标死亡时间估算||[https://wago.io/GiLz-tTYl/3](https://wago.io/GiLz-tTYl/3)|
+|战斗计时|[https://wago.io/WPdnyDbmC/3](https://wago.io/WPdnyDbmC/3)||
+|DBM/BW 新计时条|DBM/BW 新计时条||
+
+
+4. 另外还有整合大佬俏俏、momo、小喵和露露的WA，以后更新会在[https://github.com/usiege/TingFeng/blob/master/Notes/tbc-wa-update.md](https://github.com/usiege/TingFeng/blob/master/Notes/tbc-wa-update.md)；
+
+
+
+### 2022.06.02 (v0.0.4 Beta)
+
+- 新增
+
+|插件|功能简介|说明|
+|:-:|:-:|:-:|
+|Rurutia|露露的语音包内容，素材全部出自B站露露的分享码|[露露的B站主页](https://space.bilibili.com/455259)|
+|PallyPower|圣骑士刷Buff神器|圣骑士必备插件，其他职业不需要|
+
+- 新增
+
+|项目|说明|补充|
+|:-:|:-:|:-:|
+|TargetingFrame|`_classic_/Interface/TargetFrame`小图标|一些键头之类的小图标|
 
 ### 2022.06.01
 
@@ -90,7 +155,7 @@
 
 |项目|说明|补充|
 |:-:|:-:|:-:|
-|菜单显示|`_classic_/Buttons`下全部内容，如不需要可直接删除|![03.png](https://s2.loli.net/2022/05/29/w8ovIAiMxZqRVk5.png)|
+|菜单显示|`_classic_/Interface/Buttons`下全部内容，如不需要可直接删除|![03.png](https://s2.loli.net/2022/05/29/w8ovIAiMxZqRVk5.png)|
 |字体|修改字体为方正圆简体，修改字体详见：<br> [【听风】WOW如何修改字体？收藏这一篇就够了。](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247485238&idx=6&sn=14afa4359c2da784875587d0839722ee&chksm=eaf139a3dd86b0b53ae698f33747a4be6b65ecdbc95448c93c190d1ab3cd5b8f6e40233c837e#rd)|![04.png](https://s2.loli.net/2022/05/29/ODQzG9E1yPTeKSI.png)|
-|按钮颜色|`_classic_/Glues`下替换材质，可更改按钮颜色及点按时半透明效果|![05.png](https://s2.loli.net/2022/05/29/9pMNeIs2kfqV78O.png)|
-|按钮材质|`_classic_/FrameGeneral`材质，可更改按钮背景材质，边缘更平滑了|![10.png](https://s2.loli.net/2022/05/30/A9gnGpeWjX36ctu.png)|
+|按钮颜色|`_classic_/Interface/Glues`下替换材质，可更改按钮颜色及点按时半透明效果|![05.png](https://s2.loli.net/2022/05/29/9pMNeIs2kfqV78O.png)|
+|按钮材质|`_classic_/Interface/FrameGeneral`材质，可更改按钮背景材质，边缘更平滑了|![10.png](https://s2.loli.net/2022/05/30/A9gnGpeWjX36ctu.png)|
