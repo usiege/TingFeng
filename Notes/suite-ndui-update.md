@@ -9,14 +9,15 @@
 
 ## 更新日志（日期至下而上）
 
-> [插件更新合集](./tfisaip/ndui-all.md)
+- [插件更新合集](./tfisaip/ndui-all.md)
 
-> [快捷命令速查](https://github.com/usiege/TingFeng/tree/master/Macro/addons.md)
+- [快捷命令速查](https://github.com/usiege/TingFeng/tree/master/Macro/addons.md)
 
-> [常用WA速查](https://github.com/usiege/TingFeng/blob/master/Notes/tbc-wa-update.md)
+- [常用WA速查](https://github.com/usiege/TingFeng/blob/master/Notes/tbc-wa-update.md)
 
 
-> 更新视频链接
+- 更新视频链接
+
 > 抖音： [主页](https://www.douyin.com/user/MS4wLjABAAAAWZZwAj3K-Moaee9AAFuYqi6CRWfC29At1CHheP3ubYgxh3ceYT88_oFgwaTPW9su)
 > 微信公众号【听风轻咛】，微信视频号【WoWCube】同步更新；
 
@@ -34,6 +35,7 @@
 - WA新增
 
 1. 通用分组
+
 |WA|功能简介|说明|
 |:-:|:-:|:-:|
 |经验声望统计|[https://bbs.nga.cn/read.php?tid=20700730](https://bbs.nga.cn/read.php?tid=20700730)|by wking@NGA，ExpHelper  v1.9.7.4。from：一个小巧的刷副本经验统计工具。|
@@ -45,6 +47,7 @@
 |仇恨条显示|[https://wago.io/io6u6l723/4](https://wago.io/io6u6l723/4)||
 
 2. 战斗资源
+
 |WA|功能简介|说明|
 |:-:|:-:|:-:|
 |点我吃大蓝（常显问题修复）|nga-bacootang 功能简介：当总蓝量 - 当前蓝量 >= 3000（自动判断是否装备炼金石，装备则自动为4200），并且大蓝CD转好的情况下，高亮图标出现。|[https://bbs.nga.cn/read.php?tid=29747650](https://bbs.nga.cn/read.php?tid=29747650)|
@@ -54,6 +57,7 @@
 |盾值监控-侧面盾|[https://wago.io/G6FHkDAOv/](https://wago.io/G6FHkDAOv/)|原版：nanShield|
 
 3. 战斗显示
+
 |WA|功能简介|说明|
 |:-:|:-:|:-:|
 |标记目标血条||kell。法师A怪用，手动启用|
@@ -62,7 +66,7 @@
 |DBM/BW 新计时条|DBM/BW 新计时条||
 
 
-4. 另外还有整合大佬俏俏、momo、小喵和露露的WA，以后更新会在[https://github.com/usiege/TingFeng/blob/master/Notes/tbc-wa-update.md](https://github.com/usiege/TingFeng/blob/master/Notes/tbc-wa-update.md)；
+4. 另外还有整合大佬俏俏、momo、小喵和露露的WA，以后更新会在[WA更新](https://github.com/usiege/TingFeng/blob/master/Notes/tbc-wa-update.md)；
 
 
 
