@@ -32,6 +32,13 @@
 |快捷聊天按钮|`https://wago.io/Iv6J0Sr9U`|![image_1fs3mjjt31d07169avcjkad7t2dc.png-14.4kB][31]|
 |快捷聊天按钮|https://g.nga.cn/read.php?tid=16893241&_fp=5&page=1|![image_1fse7obk81d2fa191a9olsa11up54.png-19kB][24]|
 |表情Emojis|`https://wago.io/MdUdizkTf`|![image_1fs3mme8210l19se1tnj1nto1urddp.png-22.5kB][32]|
+|经验声望统计|by wking@NGA，ExpHelper  v1.9.7.4。from：一个小巧的刷副本经验统计工具。|[https://bbs.nga.cn/read.php?tid=20700730](https://bbs.nga.cn/read.php?tid=20700730)|
+|强力跟随/迷路的沙恩|by：antiwinter，露露：简单汉化了一下自定义选项，我将位置放置在了玩家头像框的右侧|[https://bbs.nga.cn/read.php?tid=21466108](https://bbs.nga.cn/read.php?tid=21466108)|
+|点我吃面包|脱离战斗后法力值低于85%时提示吃食物，点击进食。默认法师面包，可更改。|[https://wago.io/r1b2zigtX/3](https://wago.io/r1b2zigtX/3)|
+|11跟随（鱼与鱼）||follow-by鱼与鱼，不在首领战中加载|
+|TBC常用声望监控 v2.2|原版：https://wago.io/lw8MHQNeR/ 部分声望补充 by 露露緹婭@Bilibili|[https://wago.io/lw8MHQNeR/6](https://wago.io/lw8MHQNeR/6)|
+|仇恨条显示||[https://wago.io/io6u6l723/4](https://wago.io/io6u6l723/4)|
+
 
 ## 战斗资源
 
@@ -44,6 +51,9 @@
 |饰品冷却|`https://wago.io/Trinket/14`|![image_1fse75tb5kg4r60k8gkmaas729.png-36.7kB][18]|
 |团队资源/增益统计|`https://wago.io/8bUKe-gBP/5`|![image_1fsgjsabdk6h1qp61ins19r6k0q1s.png-72.4kB][5]|
 |BUFF工具|`https://wago.io/-KDSWOdMR`|![image_1fsginj3n1kns6rh1qkp1sdorcq12.png-135kB][4]|
+|点我吃大蓝（常显问题修复）|[https://bbs.nga.cn/read.php?tid=29747650](https://bbs.nga.cn/read.php?tid=29747650)|nga-bacootang 功能简介：当总蓝量 - 当前蓝量 >= 3000（自动判断是否装备炼金石，装备则自动为4200），并且大蓝CD转好的情况下，高亮图标出现。|
+|敲鼓监控|此条为所有帧高占用类型注意！显示8码内你小队的人员名称，方便敲鼓||
+|双饰品监控，加入可点击代码|一个自用改版，加入了可点击代码，修改by 露露緹婭@bilibili|[https://wago.io/HkyCdgUpm/4](https://wago.io/HkyCdgUpm/4)|
 
 
 ## 战斗显示
