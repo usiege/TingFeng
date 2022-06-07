@@ -14,6 +14,8 @@
 提取码：tfqn
 ```
 
+![04.png](https://s2.loli.net/2022/06/08/zZNKqapPDBwlOIL.png)
+
 
 ### 登录器下载
 
@@ -22,3 +24,24 @@
 提取码：tfqn
 ```
 
+![03.png](https://s2.loli.net/2022/06/08/JEHCatp31FUjbPy.png)
+
+
+## 插件包
+
+
+### 大脚插件包
+
+> WLK的某些大脚插件包会导致进入游戏频繁掉线，如有相同情况请更换插件；
+
+```
+链接：https://pan.baidu.com/s/1qB0vW86CMzc1JEe5Ym31Sg 
+提取码：tfqn
+```
+
+### 魔盒插件包
+
+```
+链接：https://pan.baidu.com/s/1YEqH1Puo6h7N1LXDkuTQDA 
+提取码：tfqn
+```
