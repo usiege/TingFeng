@@ -7,7 +7,7 @@
 
 ## 更新日志（日期至下而上）
 
-- [插件更新合集](./tfisaip/ndui-all.md)
+- [NDui更新合集](./tfisaip/ndui-all.md)
 
 - [快捷命令速查](https://github.com/usiege/TingFeng/tree/master/Macro/addons.md)
 
