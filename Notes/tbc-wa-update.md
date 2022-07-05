@@ -1,81 +1,99 @@
-﻿# 【WA】TBC功能WA串更新日志（更新至2022.03.03）
+﻿# 【WA】TBC功能WA串更新日志（更新至2022.06.02）
 
-标签（空格分隔）： 更新
+- [【WA】TBC功能WA串更新日志（更新至2022.06.02）](#watbc功能wa串更新日志更新至20220602)
+  - [通用](#通用)
+  - [战斗资源](#战斗资源)
+  - [战斗显示](#战斗显示)
+  - [任务声望](#任务声望)
+  - [副本专用](#副本专用)
+  - [近战专用](#近战专用)
+  - [职业专用](#职业专用)
+    - [萨满(Shaman)](#萨满shaman)
+    - [德鲁伊(Druid)](#德鲁伊druid)
+    - [猎人(Hunter)](#猎人hunter)
+    - [法师(Mage)](#法师mage)
+    - [圣骑士(Paladin)](#圣骑士paladin)
+    - [牧师(Priest)](#牧师priest)
+    - [盗贼(Rogue)](#盗贼rogue)
+    - [术士(Warlock)](#术士warlock)
+    - [战士(Warrior)](#战士warrior)
 
----
-
-[TOC]
-
-
-本篇为[ElvUI]简洁风格WA功能串的更新部分：
-
-[[ElvUI]魔兽世界简洁风格整合插件包功能全解（编辑推荐）](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247485703&idx=1&sn=62a2c1537371278d5a2ca377e0b40a79&chksm=eaf13792dd86be8448b495d4557576567621cb62d7915e4efb6bbb060564897c93b24362a423#rd)
-
-该功能表将持续更新，详情可以访问以下链接直达。
-
-> https://github.com/usiege/TingFeng/blob/master/Notes/tbc-wa-update.md
-
+本文档为黑盒工坊“【听风】TBC极简风格界面（持续更新）”配套更新内容，黑盒分享码为：**59558USF8TkE1f6**
 
 ## 通用
 
-### 2022.02.22 更新
-
 |名称|原址|功能|
 |:-:|:-:|:-:|
-|TBC-宝石黑心统计|`https://wago.io/iQSRfGo0M/5`|![6210972652bdee88cbc79074.gif-178.1kB][1]|
-|显示平砍|https://nga.178.com/read.php?tid=28435565&rand=8|![lkQj7d-coloXbZ33T3cS9k-a2.gif-1109.3kB][2]|
-|刀锋山-奥格瑞拉日常任务|`https://wago.io/A3ZKZBoTH`|![image_1fsgik80q10rt8aa1bfo1o151p1fl.png-273.4kB][3]|
-|BUFF工具|`https://wago.io/-KDSWOdMR`|![image_1fsginj3n1kns6rh1qkp1sdorcq12.png-135kB][4]|
-|团队资源/增益统计|`https://wago.io/8bUKe-gBP/5`|![image_1fsgjsabdk6h1qp61ins19r6k0q1s.png-72.4kB][5]|
-|治疗预估检测-红绿灯|`https://wago.io/eGjz__yt3/8`|![image_1fsgjumbqo7d1dis17hh1lt6vq629.png-15.7kB][6]|
-|T6 小怪技能鼠标提示|`https://wago.io/T9mW0WezA/1`|![image_1fsglkar01gto19dc1d1eban1fb22m.png-13.9kB][7]|
-|掉落占卜|`https://wago.io/Ah6DxfKVq/8`|![image_1fsgmpdkk1rop1uo4uvckn5njt3t.png-41.4kB][8]<br>![image_1fsgmr0abjd415h81k7pk5r2uo4a.png-15.3kB][9]|
 |集合石召唤提示|`https://wago.io/21QVtozc9`|![image_1fsgms9pa90q1fj11909r5c1po84n.png-16kB][10]|
-|当前目标死亡时间估算|`https://wago.io/GiLz-tTYl/3`|![image_1fsgmu7hh1qbm73j1qt5plp1uih54.png-234.2kB][11]|
-|点我吃大蓝|https://bbs.nga.cn/read.php?tid=29747650|![image_1fsgn8sap1kejocu19gb1f021i7n6n.png-50.2kB][12]|
-|TBC全职业药剂|`https://wago.io/y7qMWv4rn`|![image_1fsgncgkme7vn12e5o1i391oln74.png-13.6kB][13]|
-|团本材料准备清单|`https://wago.io/BB6w4sCt1`|![image_1fsgnedu2e3agu99f3r1g19oc7h.png-136.6kB][14]|
-
-
-### 2022.02.21
-
-|名称|原址|功能|
-|:-:|:-:|:-:|
 |上线自动启动操作|`https://wago.io/sW6VmfRc_`|包括聊天反和谐、模型反和谐、自身高亮、超远视角、删除狮鹫、显示血条职业颜色、自动阻止交易等多项便捷功能|
-|iTank坦克评分|`https://wago.io/-f0Ejpnaz`|![image_1fse67pqhba8nr8up48h51qu69.png-138.9kB][15]|
 |强力跟随|`https://wago.io/Qn66ti8a8/2`|![image_1fse6kaleln71pvs1t4t13tl1hrv13.png-11.3kB][16]|
-|★DBM&Bigwigs计时条|`https://wago.io/E3S5IwBJJ`|![60766cda2b5f12183737f7c8.gif-235.8kB][17]|
-|Combat Timer|`https://wago.io/WPdnyDbmC/3`|战斗计时|
-|饰品冷却|`https://wago.io/Trinket/14`|![image_1fse75tb5kg4r60k8gkmaas729.png-36.7kB][18]|
-|TBC常用声望条|`https://wago.io/lw8MHQNeR/6`|![image_1fse7afqeane13pc165m1k041qh82m.png-99.2kB][19]|
-|点我吃面包|`https://wago.io/r1b2zigtX/3`|脱离战斗后法力值低于85%时提示吃食物，点击进食。默认法师面包，可更改<br>![image_1fse7ci54rft10eb1ava1vi0d9p33.png-9.3kB][20]|
-|TBC全职业药剂|`https://wago.io/y7qMWv4rn`|![image_1fse7g9u213tk50t3div1vnf3g.png-69.7kB][21]|
-|仇恨条|`https://wago.io/io6u6l723/4`|![image_1fse7hd0f14us1qqh1cf8q6r88c3t.png-9.4kB][22]|
-|怪物标记助手|`https://wago.io/vQY6_rTnB`|![image_1fse7lqf11pthrd71s0lpbe494n.png-10.9kB][23]|
-|快捷聊天按钮|https://g.nga.cn/read.php?tid=16893241&_fp=5&page=1|![image_1fse7obk81d2fa191a9olsa11up54.png-19kB][24]|
 |背包信息|`https://wago.io/trackables/85`|![image_1fse81tsedm8vo613gk19sa1o315h.png-10.9kB][25]|
-
-
-- 近战武器
-
-|名称|原址|功能|
-|:-:|:-:|:-:|
-|武器附魔/风怒图腾监控|`https://wago.io/ClassicTimedEnchants/3`|![image_1fse7274414k91l5he6bqhb1dk71s.png-39.9kB][26]|
-
-
-
-### 2022.02.14 
-
-|名称|原址|功能|
-|:-:|:-:|:-:|
-|Classic Nameplate Modifier<br>(仇恨目标显示)|`https://wago.io/y6sSw5baf/21`|![image_1fs3m62ne111f1j4g1c5b1ou01ks7bo.png-28.1kB][27]|
-|nanShield TBC<br>(吸收护盾能量值)|`https://wago.io/G6FHkDAOv`|![image_1fs3mddj21s5t19gh12fm1vuhvhgc5.png-74.6kB][28]|
-|快捷标记条|`https://wago.io/vQY6_rTnB/84`|![image_1fs3mfjkmqa914bb1mnh8cf1gddci.png-22.8kB][29]|
 |时钟显示|`https://wago.io/H16IxfPIm/1`|![image_1fs3mh1sn14bf1up1n4uh7rnqkcv.png-10.9kB][30]|
 |快捷聊天按钮|`https://wago.io/Iv6J0Sr9U`|![image_1fs3mjjt31d07169avcjkad7t2dc.png-14.4kB][31]|
+|快捷聊天按钮|https://g.nga.cn/read.php?tid=16893241&_fp=5&page=1|![image_1fse7obk81d2fa191a9olsa11up54.png-19kB][24]|
 |表情Emojis|`https://wago.io/MdUdizkTf`|![image_1fs3mme8210l19se1tnj1nto1urddp.png-22.5kB][32]|
+|经验声望统计|by wking@NGA，ExpHelper  v1.9.7.4。from：一个小巧的刷副本经验统计工具。|[https://bbs.nga.cn/read.php?tid=20700730](https://bbs.nga.cn/read.php?tid=20700730)|
+|强力跟随/迷路的沙恩|by：antiwinter，露露：简单汉化了一下自定义选项，我将位置放置在了玩家头像框的右侧|[https://bbs.nga.cn/read.php?tid=21466108](https://bbs.nga.cn/read.php?tid=21466108)|
+|点我吃面包|脱离战斗后法力值低于85%时提示吃食物，点击进食。默认法师面包，可更改。|[https://wago.io/r1b2zigtX/3](https://wago.io/r1b2zigtX/3)|
+|11跟随（鱼与鱼）||follow-by鱼与鱼，不在首领战中加载|
+|TBC常用声望监控 v2.2|原版：https://wago.io/lw8MHQNeR/ 部分声望补充 by 露露緹婭@Bilibili|[https://wago.io/lw8MHQNeR/6](https://wago.io/lw8MHQNeR/6)|
+|仇恨条显示||[https://wago.io/io6u6l723/4](https://wago.io/io6u6l723/4)|
 
 
+## 战斗资源
+
+|名称|原址|功能|
+|:-:|:-:|:-:|
+|点我吃面包|`https://wago.io/r1b2zigtX/3`|脱离战斗后法力值低于85%时提示吃食物，点击进食。默认法师面包，可更改<br>![image_1fse7ci54rft10eb1ava1vi0d9p33.png-9.3kB][20]|
+|点我吃大蓝|https://bbs.nga.cn/read.php?tid=29747650|![image_1fsgn8sap1kejocu19gb1f021i7n6n.png-50.2kB][12]|
+|TBC全职业药剂|`https://wago.io/y7qMWv4rn`|![image_1fse7g9u213tk50t3div1vnf3g.png-69.7kB][21]|
+|TBC全职业药剂|`https://wago.io/y7qMWv4rn`|![image_1fsgncgkme7vn12e5o1i391oln74.png-13.6kB][13]|
+|饰品冷却|`https://wago.io/Trinket/14`|![image_1fse75tb5kg4r60k8gkmaas729.png-36.7kB][18]|
+|团队资源/增益统计|`https://wago.io/8bUKe-gBP/5`|![image_1fsgjsabdk6h1qp61ins19r6k0q1s.png-72.4kB][5]|
+|BUFF工具|`https://wago.io/-KDSWOdMR`|![image_1fsginj3n1kns6rh1qkp1sdorcq12.png-135kB][4]|
+|点我吃大蓝（常显问题修复）|[https://bbs.nga.cn/read.php?tid=29747650](https://bbs.nga.cn/read.php?tid=29747650)|nga-bacootang 功能简介：当总蓝量 - 当前蓝量 >= 3000（自动判断是否装备炼金石，装备则自动为4200），并且大蓝CD转好的情况下，高亮图标出现。|
+|敲鼓监控|此条为所有帧高占用类型注意！显示8码内你小队的人员名称，方便敲鼓||
+|双饰品监控，加入可点击代码|一个自用改版，加入了可点击代码，修改by 露露緹婭@bilibili|[https://wago.io/HkyCdgUpm/4](https://wago.io/HkyCdgUpm/4)|
+
+
+## 战斗显示
+
+|名称|原址|功能|
+|:-:|:-:|:-:|
+|Combat Timer|`https://wago.io/WPdnyDbmC/3`|战斗计时|
+|nanShield TBC<br>(吸收护盾能量值)|`https://wago.io/G6FHkDAOv`|![image_1fs3mddj21s5t19gh12fm1vuhvhgc5.png-74.6kB][28]|
+|★DBM&Bigwigs计时条|`https://wago.io/E3S5IwBJJ`|![60766cda2b5f12183737f7c8.gif-235.8kB][17]|
+|当前目标死亡时间估算|`https://wago.io/GiLz-tTYl/3`|![image_1fsgmu7hh1qbm73j1qt5plp1uih54.png-234.2kB][11]|
+|治疗预估检测-红绿灯|`https://wago.io/eGjz__yt3/8`|![image_1fsgjumbqo7d1dis17hh1lt6vq629.png-15.7kB][6]|
+
+
+## 任务声望
+
+|名称|原址|功能|
+|:-:|:-:|:-:|
+|TBC常用声望条|`https://wago.io/lw8MHQNeR/6`|![image_1fse7afqeane13pc165m1k041qh82m.png-99.2kB][19]|
+|刀锋山-奥格瑞拉日常任务|`https://wago.io/A3ZKZBoTH`|![image_1fsgik80q10rt8aa1bfo1o151p1fl.png-273.4kB][3]|
+
+## 副本专用
+
+|名称|原址|功能|
+|:-:|:-:|:-:|
+|掉落占卜|`https://wago.io/Ah6DxfKVq/8`|![image_1fsgmpdkk1rop1uo4uvckn5njt3t.png-41.4kB][8]<br>![image_1fsgmr0abjd415h81k7pk5r2uo4a.png-15.3kB][9]|
+|团本材料准备清单|`https://wago.io/BB6w4sCt1`|![image_1fsgnedu2e3agu99f3r1g19oc7h.png-136.6kB][14]|
+|仇恨条|`https://wago.io/io6u6l723/4`|![image_1fse7hd0f14us1qqh1cf8q6r88c3t.png-9.4kB][22]|
+|Classic Nameplate Modifier<br>(仇恨目标显示)|`https://wago.io/y6sSw5baf/21`|![image_1fs3m62ne111f1j4g1c5b1ou01ks7bo.png-28.1kB][27]|
+|快捷标记条|`https://wago.io/vQY6_rTnB/84`|![image_1fs3mfjkmqa914bb1mnh8cf1gddci.png-22.8kB][29]|
+|怪物标记助手|`https://wago.io/vQY6_rTnB`|![image_1fse7lqf11pthrd71s0lpbe494n.png-10.9kB][23]|
+|TBC-宝石黑心统计|`https://wago.io/iQSRfGo0M/5`|![6210972652bdee88cbc79074.gif-178.1kB][1]|
+|T6 小怪技能鼠标提示|`https://wago.io/T9mW0WezA/1`|![image_1fsglkar01gto19dc1d1eban1fb22m.png-13.9kB][7]|
+
+## 近战专用
+
+|名称|原址|功能|
+|:-:|:-:|:-:|
+|iTank坦克评分|`https://wago.io/-f0Ejpnaz`|![image_1fse67pqhba8nr8up48h51qu69.png-138.9kB][15]|
+|武器附魔/风怒图腾监控|`https://wago.io/ClassicTimedEnchants/3`|![image_1fse7274414k91l5he6bqhb1dk71s.png-39.9kB][26]|
+|显示平砍|https://nga.178.com/read.php?tid=28435565&rand=8|![lkQj7d-coloXbZ33T3cS9k-a2.gif-1109.3kB][2]|
 
 ## 职业专用
 
@@ -155,6 +173,8 @@
 |Warrior Core (TBC) - Luxthos|`https://wago.io/0AFdqklgD`|![image_1fs3lsjhe1rvi1dcl1g9fuj82jbb.png-28.1kB][62]|
 |Warrior Dynamic (TBC) - Luxthos|`https://wago.io/AzE5YvXm0`|![image_1fs3ls5ht1ju61ev683botc1p6iau.png-16.2kB][63]|
 |Warrior Utilities (TBC) - Luxthos|`https://wago.io/tgUrezYbk`|![image_1fs3lrl8kjkj1vscshjihokrrah.png-12.1kB][64]|
+
+
 
 
   [1]: http://static.zybuluo.com/usiege/i3w3kfgc4hxuke6mkibb6i4c/6210972652bdee88cbc79074.gif
