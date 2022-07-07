@@ -4,6 +4,12 @@
 
 此篇是听风的极简风格插件包内容更新日志，按最近日期从上到下排序，内容持续更新中。。。
 
+> 本插件包黑盒分享码见游戏社区：
+> [KOOK游戏社区](https://kook.top/EGosAW)
+
+- 如何找到我？
+
+[听风轻咛](./tfisaip/me.md)
 
 ## 更新日志（日期至下而上）
 
@@ -14,12 +20,9 @@
 - [常用WA速查](https://github.com/usiege/TingFeng/blob/master/Notes/tbc-wa-update.md)
 
 
-- 更新视频链接
+### 2022.07.07（v0.0.5）
 
-> 抖音： [主页](https://www.douyin.com/user/MS4wLjABAAAAWZZwAj3K-Moaee9AAFuYqi6CRWfC29At1CHheP3ubYgxh3ceYT88_oFgwaTPW9su)，
-> 微信公众号【听风轻咛】，微信视频号【WoWCube】同步更新；
 
-> 本插件包问题反馈可到公众号后台，或者直接到 [我的知识星球](https://t.zsxq.com/02mlmqzN3) 提问；
 
 
 ### 2022.06.03 (v0.0.5 Beta)
@@ -62,9 +65,7 @@
 |战斗计时|[https://wago.io/WPdnyDbmC/3](https://wago.io/WPdnyDbmC/3)||
 |DBM/BW 新计时条|DBM/BW 新计时条||
 
-
 4. 另外还有整合大佬俏俏、momo、小喵和露露的WA，以后更新会在[WA更新](https://github.com/usiege/TingFeng/blob/master/Notes/tbc-wa-update.md)；
-
 
 
 ### 2022.06.02 (v0.0.4 Beta)
