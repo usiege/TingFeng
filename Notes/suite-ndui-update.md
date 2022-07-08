@@ -11,6 +11,7 @@
 
 [听风轻咛](./tfisaip/me.md)
 
+
 ## 更新日志（日期至下而上）
 
 - [NDui更新合集](./tfisaip/ndui-all.md)
@@ -20,10 +21,11 @@
 - [常用WA速查](https://github.com/usiege/TingFeng/blob/master/Notes/tbc-wa-update.md)
 
 
-### 2022.07.07（v0.0.5）
+### 2022.07.09（v0.1.0）
 
+- 发布正式版v0.1.0版本
 
-
+[更新文章链接](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247486308&idx=1&sn=d7407d2ca9ef2ebcee9852e02fb99188&chksm=eaf135f1dd86bce70a2d89b1da99a79f0ed1ae244e2711627a87b3ccde682d783f4ed3c9a951#rd)
 
 ### 2022.06.03 (v0.0.5 Beta)
 
@@ -102,8 +104,8 @@
 |alaCalendar|有爱日历功能|![13.png](https://s2.loli.net/2022/06/01/MprHcsCBxw5yYui.png)|
 |MerInspect|装备观察助手|![14.png](https://s2.loli.net/2022/06/01/uohQd3BOE49NjXS.png)|
 |tdInspect|远程观察助手|![15.png](https://s2.loli.net/2022/06/01/duwCWiGmbBhQ2Ag.png)|
-|BoomTime|爆本统计助手||
-|Talented|直接替换系统天赋页面||
+|BoomTime|爆本统计助手|[[听风]TBC单体插件重置副本利器Boomtime](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247484696&idx=1&sn=8ff742d2cc26d528a140feb6d06a05f1&chksm=eaf13b8ddd86b29bbe0dc6ccd651664c18355f2f3a63871e5041f57e5f8dac50cf26ae1979e7#rd)|
+|Talented|直接替换系统天赋页面|[[听风]你想要一键改天赋吗？插件Talented推荐](https://mp.weixin.qq.com/s?__biz=MzI2ODM4MTE3OA==&mid=2247485221&idx=1&sn=ac89342c827f54e987ee6303072adf74&chksm=eaf139b0dd86b0a6f03bbceb1398da1b171ab19b5e0af79475eb8373837411f9e11a851d82c3#rd)|
 ||||
 
 ### 2022.05.31
@@ -146,7 +148,6 @@
 
 
 ### 2022.05.29
-
 
 - 新增
 
