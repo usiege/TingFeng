@@ -37,15 +37,14 @@ Notes图床（仅限当前目录文章）
 > [FF14插件(正式服)](./tfisaip/ff14.md)
 
 
+### WLK
+
+
+- [ElvUI插件包配置（含FF14）](./wlk/suite-elvui.md)
+
+
 ### TBC
 
 - [TBC黑盒(NDui)](./tfisaip/ndui-all.md)
 
 
-### WLK
-
-- [大脚](./wlk/suite-dajiao.md)
-
-- [多玩魔盒](./wlk/suite-duowan.md)
-
-- [ElvUI](./wlk/suite-elvui.md)
