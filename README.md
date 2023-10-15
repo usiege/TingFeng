@@ -10,9 +10,9 @@
 
 ## Addons
 
-- [Publisher](https://github.com/usiege/publisher)
+- [听风发布](https://github.com/usiege/publisher)
 
-- [Addons Tools](https://github.com/usiege/awesome-wow-addons)
+- [Addons插件库](https://github.com/usiege/awesome-wow-addons)
 
 - [winda(温达)](https://github.com/usiege/winda)
 
