@@ -12,9 +12,9 @@
 
 - [听风发布](https://github.com/usiege/publisher)
 
-- [Addons插件库](https://github.com/usiege/awesome-wow-addons)
+- [winda (温达)](https://github.com/usiege/winda)
 
-- [winda(温达)](https://github.com/usiege/winda)
+- [Addons插件库](https://github.com/usiege/awesome-wow-addons)
 
 - [WindWhispered](https://github.com/usiege/WindWhispered)
 
