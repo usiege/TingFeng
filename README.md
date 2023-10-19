@@ -4,15 +4,14 @@
 
 ## RECOMMAND
 
+- [听风发布](https://github.com/usiege/publisher)
+- [推荐阅读](https://github.com/usiege/ZhiHu-Publisher)
 - [我的Patreon](https://www.patreon.com/hearwinds)
-- [推荐阅读](https://github.com/usiege/publisher)
 
 
 ## Addons
 
-- [听风发布](https://github.com/usiege/publisher)
-
-- [winda (温达)](https://github.com/usiege/winda)
+- [winda(温达)](https://github.com/usiege/winda)
 
 - [Addons插件库](https://github.com/usiege/awesome-wow-addons)
 
