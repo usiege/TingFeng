@@ -2,7 +2,7 @@
 > COLLECTION WITH WOW API
 
 - [WIDGET](#WIDGET)
-- [EVENT](#WIDGET)
+- [EVENT](#EVENT)
 - [CVars](#CVars)
 
 ## WIDGET
