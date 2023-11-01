@@ -1,19 +1,22 @@
 # WOW API
 > COLLECTION WITH WOW API
 
-## API
+- [WIDGET](#WIDGET)
+- [EVENT](#WIDGET)
+- [CVars](#CVars)
+
+## WIDGET
+
+<span id="WIDGET"></span>
 
 |API|用于|说明|
 |:-:|:-:|:-:|
-|SendChatMessage|聊天|[SendChatMessage](#SendChatMessage)|
 |ChatFrame{数字}:AddMessage|ChatFrame|[AddMessage](#addmessage)|
 |DEFAULT_CHAT_FRAME|ChatFrame|[DEFAULT_CHAT_FRAME](#default_chat_frame)|
+|SendChatMessage|聊天|[SendChatMessage](#SendChatMessage)|
+|SetClampedToScreen|Frame|[SetClampedToScreen](#sendchatmessage)|
 
 ## 用法
-
-### <span id="SendChatMessage">SendChatMessage</span>
-
-说明：在频道1发送文字 'talk ...'
 
 ### <span id="AddMessage">AddMessage</span>
 
@@ -22,6 +25,23 @@
 ### <span id="DEFAULT_CHAT_FRAME">DEFAULT_CHAT_FRAME</span>
 
 当前选定的聊天标签窗口，默认为第一个标签
+
+### <span id="SendChatMessage">SendChatMessage</span>
+
+说明：在频道1发送文字 'talk ...'
+
+### <span id="SetClampedToScreen">DEFAULT_CHAT_FRAME</span>
+
+使frame在屏幕内（不会拖出屏幕）
+
+
+## EVENT
+
+<span id="EVENT"></span>
+
+## CVars
+
+<span id="CVars"></span>
 
 ## 列表
 <table>
