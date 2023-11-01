@@ -30,7 +30,7 @@
 
 说明：在频道1发送文字 'talk ...'
 
-### <span id="SetClampedToScreen">DEFAULT_CHAT_FRAME</span>
+### <span id="SetClampedToScreen">SetClampedToScreen</span>
 
 使frame在屏幕内（不会拖出屏幕）
 
