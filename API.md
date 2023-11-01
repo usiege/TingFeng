@@ -3,30 +3,11 @@
 
 ## API收集
 
-### [A]
 
-
-### [C]
-
-- CHAT_MSG_WHISPER
-```
-frame: Register("CHAT_MSG_WHISPER")
-```
-
-### [W]
-
-```
-WorldTextScale  # 伤害数字倍数
-```
-
-
-
-## 表格列表
-
-|API|用法|说明|
-|:-:|:-:|:-:|
-|SendChatMessage|SendChatMessage("talk ...", "channel", nil, 1)|说明：在频道1发送文字 'talk ...'|
-|ChatFrame{数字}:AddMessage|ChatFrame3:AddMessage("talk off")|在聊天标签窗口｛数字｝内输出文字 'talk off'|
+|API||用法|说明|
+|:-:|:-:|:-:|:-:|
+|SendChatMessage|-|SendChatMessage("talk ...", "channel", nil, 1)|说明：在频道1发送文字 'talk ...'|
+|ChatFrame{数字}:AddMessage|-|ChatFrame3:AddMessage("talk off")|在聊天标签窗口｛数字｝内输出文字 'talk off'|
 |DEFAULT_CHAT_FRAME||当前选定的聊天标签窗口，默认为第一个标签|
 
 ## JS列表（后续）
@@ -43,8 +24,6 @@ WorldTextScale  # 伤害数字倍数
             SendChatMessage("talk ...", "channel", nil, 1)
             <br>
             说明：在频道1发送文字 'talk ...'
-
-            
         </td>
     </tr>
     <tr>
