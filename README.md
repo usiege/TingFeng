@@ -17,9 +17,6 @@
 
 - [WindWhispered](https://github.com/usiege/WindWhispered)
 
-
-## World of Warcraft
-
 - [Github rep 暴雪工具库](https://github.com/usiege/World-Of-Warcraft)
 
 
@@ -28,15 +25,13 @@
 - [LUA](https://github.com/usiege/LUA)
 
 
-## MACRO
+## [宏命令](./Macro/README.md)
 
-- [宏命令](./Macro/README.md)
 
-## API
+## [WOW API收录](./API.md)
 
 ![Widget_Hierarchy](./Widget_Hierarchy.png)
 
-- [WOW API收录](./API.md)
 
 ## OTHER
 
