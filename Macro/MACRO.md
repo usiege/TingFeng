@@ -48,6 +48,13 @@ to display LUA errors
 
 `/run SetConsoleKey("]")`
 
+- 左右龙鹰消除
+
+```
+/script MainMenuBarLeftEndCap:Hide()
+/script MainMenuBarRightEndCap:Hide()
+```
+
 ## console
 
 - [Console](https://wowpedia.fandom.com/wiki/Console)
