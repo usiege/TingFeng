@@ -2,10 +2,16 @@
 
 听风的自用插件相关收集
 
+
+## [文档列表](./DOC.MD)
+
+
 ## RECOMMAND
 
 - [听风发布](https://github.com/usiege/publisher)
+
 - [推荐阅读](https://github.com/usiege/ZhiHu-Publisher)
+
 - [我的Patreon](https://www.patreon.com/hearwinds)
 
 
@@ -25,15 +31,11 @@
 - [LUA](https://github.com/usiege/LUA)
 
 
-## [宏命令](./Macro/README.md)
 
-
-## [WOW API收录](./API.md)
+## API 
 
 ![Widget_Hierarchy](./Widget_Hierarchy.png)
 
 
-## OTHER
 
-- [WOW游戏目录说明](./DIRREF.md)
 
