@@ -23,7 +23,7 @@ toc文件名称必须和包含它的文件夹名相同，即`..\Interface\AddOns
 
 3. 文件列表
 
-````
+```
 myFile.xml
 subfolder\anotherFile.lua
 ```
