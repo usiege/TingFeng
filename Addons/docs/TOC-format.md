@@ -90,7 +90,7 @@ or
 
 ## 5. 元数据字段
 
-以下指令更改加载项在“加载项”列表中的显示方式。两者都可以使用 UI 转义串行着色（例如 |c#####|r），
+以下指令更改加载项在“加载项”列表中的显示方式。两者都可以使用 [UI 转义串行着色](./UI-escape-sequences.md)（例如 |c#####|r），
 
 转义着色具体请见：[https://wowpedia.fandom.com/wiki/UI_escape_sequences](https://wowpedia.fandom.com/wiki/UI_escape_sequences)
 
