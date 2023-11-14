@@ -14,6 +14,6 @@ print(CreateAtlasMarkup("groupfinder-icon-role-large-tank", 16, 16), "groupfinde
 
 ## Helix/AtlasInfo.lua
 
-[AtlasInfo](../Codes/AtlasInfo.lua)
+[AtlasInfo](../../Codes/AtlasInfo.lua)
 
 > https://www.townlong-yak.com/framexml/10.1.5/Helix/AtlasInfo.lua#5954
